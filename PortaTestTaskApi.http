@@ -1,0 +1,6 @@
+@PortaTestTaskApi_HostAddress = http://localhost:5003
+
+GET {{PortaTestTaskApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
